@@ -57,3 +57,10 @@ let friendFavorites = [
 
 // 10. STRETCH: Find the longest food name and print:
 // "The longest food name in the list is ______ with ___ characters."
+
+// 1. Create arrays to store food data
+// 2. Loop through and log specific outputs
+// 3. Write and call a function using a parameter
+// 4. Use conditionals to filter items
+// 5. Compare array lengths and find specific values
+
